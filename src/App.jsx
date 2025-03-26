@@ -1,4 +1,6 @@
 import AnonymousFunction from "./AnonymousFunction";
+import ArrayListsAndKeys from "./ArrayListsAndKeys";
+import ListItems from "./ListItems";
 import RandomName from "./RandomName";
 import UseStateFunction from "./UseStateFunction";
 
@@ -10,6 +12,8 @@ function App(){
       <p>I have <RandomName/> the money</p>
       <AnonymousFunction/>
       <UseStateFunction />
+      <ArrayListsAndKeys />
+      <ListItems />
     </div>
   );
 }
