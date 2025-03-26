@@ -11,7 +11,7 @@ const UseStateFunction = () => {
   }
 
   function incrementCount(){
-    // Increemnts only one time when we do the same function 3 times
+    // Increments only one time when we do the same function 3 times
     setCount(count+1)
     setCount(count+1)
     setCount(count+1)
