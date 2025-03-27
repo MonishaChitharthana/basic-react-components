@@ -1,6 +1,7 @@
 import AnonymousFunction from "./AnonymousFunction";
 import ArrayListsAndKeys from "./ArrayListsAndKeys";
 import ListItems from "./ListItems";
+import PropsAndDrilling from "./PropsAndDrilling";
 import RandomName from "./RandomName";
 import UseStateFunction from "./UseStateFunction";
 
@@ -14,6 +15,7 @@ function App(){
       <UseStateFunction />
       <ArrayListsAndKeys />
       <ListItems />
+      <PropsAndDrilling />
     </div>
   );
 }
